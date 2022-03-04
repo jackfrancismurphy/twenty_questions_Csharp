@@ -1,0 +1,14 @@
+C:\Users\lilma\Coding\twenty_questions\ported_twenty_questions\ported_twenty_questions\obj\Debug\netcoreapp3.1\ported_twenty_questions.csproj.AssemblyReference.cache
+C:\Users\lilma\Coding\twenty_questions\ported_twenty_questions\ported_twenty_questions\obj\Debug\netcoreapp3.1\ported_twenty_questions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lilma\Coding\twenty_questions\ported_twenty_questions\ported_twenty_questions\obj\Debug\netcoreapp3.1\ported_twenty_questions.AssemblyInfoInputs.cache
+C:\Users\lilma\Coding\twenty_questions\ported_twenty_questions\ported_twenty_questions\obj\Debug\netcoreapp3.1\ported_twenty_questions.AssemblyInfo.cs
+C:\Users\lilma\Coding\twenty_questions\ported_twenty_questions\ported_twenty_questions\obj\Debug\netcoreapp3.1\ported_twenty_questions.csproj.CoreCompileInputs.cache
+C:\Users\lilma\Coding\twenty_questions\ported_twenty_questions\ported_twenty_questions\bin\Debug\netcoreapp3.1\ported_twenty_questions.exe
+C:\Users\lilma\Coding\twenty_questions\ported_twenty_questions\ported_twenty_questions\bin\Debug\netcoreapp3.1\ported_twenty_questions.deps.json
+C:\Users\lilma\Coding\twenty_questions\ported_twenty_questions\ported_twenty_questions\bin\Debug\netcoreapp3.1\ported_twenty_questions.runtimeconfig.json
+C:\Users\lilma\Coding\twenty_questions\ported_twenty_questions\ported_twenty_questions\bin\Debug\netcoreapp3.1\ported_twenty_questions.runtimeconfig.dev.json
+C:\Users\lilma\Coding\twenty_questions\ported_twenty_questions\ported_twenty_questions\bin\Debug\netcoreapp3.1\ported_twenty_questions.dll
+C:\Users\lilma\Coding\twenty_questions\ported_twenty_questions\ported_twenty_questions\bin\Debug\netcoreapp3.1\ported_twenty_questions.pdb
+C:\Users\lilma\Coding\twenty_questions\ported_twenty_questions\ported_twenty_questions\obj\Debug\netcoreapp3.1\ported_twenty_questions.dll
+C:\Users\lilma\Coding\twenty_questions\ported_twenty_questions\ported_twenty_questions\obj\Debug\netcoreapp3.1\ported_twenty_questions.pdb
+C:\Users\lilma\Coding\twenty_questions\ported_twenty_questions\ported_twenty_questions\obj\Debug\netcoreapp3.1\ported_twenty_questions.genruntimeconfig.cache

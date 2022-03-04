@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ported_twenty_questions/1.0.0": {
+        "runtime": {
+          "ported_twenty_questions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ported_twenty_questions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
